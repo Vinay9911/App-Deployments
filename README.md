@@ -1,4 +1,3 @@
-
 # 🚀**App Deployments**🚀
 
 Welcome to the repository containing some cool AI and ML based apps 🎉  
@@ -29,4 +28,7 @@ A conversational AI app built with Groq and Streamlit for dynamic chatting exper
 
 Feel free to explore, try them out, and contribute if you have any suggestions or improvements! 🛠️
 
----
+
+## 🌐 **My Portfolio Website**
+Catch a glimpse of my journey through the tech landscape  
+🔗 [vinay-aggarwal.netlify.app](https://vinay-aggarwal.netlify.app/)
